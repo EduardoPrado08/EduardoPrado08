@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<h1 align="left">Seja bem-vindo ao meu perfil - Teste</h1>
-=======
 <h1 align="left">Seja bem-vindo ao meu perfil!</h1>
->>>>>>> 6d10aa36ba125822ef1056204296d40ed2930f18
 
 ###
 
