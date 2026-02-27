@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<img height="200" src="https://tenor.com/pt-BR/view/neymar-neymar-jr-neymar-junior-santos-santos-fc-gif-15987952918181468463"  />
+<img height="200" src="https://usagif.com/wp-content/uploads/gify/34-pikachu-hello-usagif.gif"  />
 </div>
 
 ###
