@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-<img height="200" src="file:///C:/Users/44309997830/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/NeymarNeymarJrGIF%20(2).gif"  />
-</div>
-
-###
-
 <p align="left">Sou o Eduardo moro em Guarulhos, estudante do SENAI em desenvolvimento de sistemas😊.</p>
 
 ###
