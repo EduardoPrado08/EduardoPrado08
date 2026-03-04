@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou o Eduardo moro em Guarulhos, estudante do SENAI em desenvolvimento de sistemas😊.</p>]
+<p align="left">Sou o Eduardo moro em Guarulhos, estudante do SENAI em desenvolvimento de sistemas😊.</p>
 
 
 ###
